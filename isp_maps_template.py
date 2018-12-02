@@ -6,6 +6,7 @@ Be sure to read the project description page for further information
 about the expected behavior of the program.
 """
 
+
 import csv
 import math
 import pygal
